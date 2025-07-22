@@ -15,6 +15,7 @@ Interface limpa e intuitiva para praticar lógica de jogos em JS.
 
 
 Tecnologias utilizadas:
+
 HTML, 
 
 CSS e 
