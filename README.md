@@ -33,7 +33,7 @@ git clone https://github.com/JoaoVictor992/Adivinhando-o-numero.git
 Abra o arquivo index.html no seu navegador.
 
 
-📸 Preview
+Pre-Visualização:
 
 <img width="1162" height="615" alt="image" src="https://github.com/user-attachments/assets/28fbd290-03b4-466d-aeb7-bc62a0da9db4" />
 
